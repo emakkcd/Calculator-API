@@ -18,7 +18,7 @@ This project performs basic arithmetic operations with a clean and user-friendly
 - Decimal point support
 - Error handling for invalid expressions
 
----
+--
 
 ## 🛠️ Technologies Used
 
