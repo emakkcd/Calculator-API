@@ -65,7 +65,6 @@ calculator/
 
 - This calculator is for **educational purposes**.
 - Using `eval()` is not recommended for large or production-level applications due to security concerns.
-
 ---
 
 ## 👤 Author
