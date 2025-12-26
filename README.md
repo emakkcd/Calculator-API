@@ -1,6 +1,6 @@
 # Calculator ni Reymark 🧮
 
-A simple web-based calculator built using **HTML**, **CSS**, and **JavaScript**.  
+A simple web-based calculator built using HTML, CSS, and JavaScript.  
 This project performs basic arithmetic operations with a clean and user-friendly interface.
 
 ---
@@ -18,13 +18,13 @@ This project performs basic arithmetic operations with a clean and user-friendly
 - Decimal point support
 - Error handling for invalid expressions
 
---
+---
 
 ## 🛠️ Technologies Used
 
-- **HTML** – Structure of the calculator
-- **CSS** – Styling and layout
-- **JavaScript** – Calculator logic and interactivity
+- HTML – Structure of the calculator
+- CSS – Styling and layout
+- JavaScript – Calculator logic and interactivity
 
 ---
 
@@ -32,7 +32,7 @@ This project performs basic arithmetic operations with a clean and user-friendly
 
 calculator/
 │
-├── index.html # Main HTML file
+├── calcu.html # Main HTML file
 ├── calcu.css # Styling file
 ├── calcu.js # JavaScript logic
 └── README.md # Project documentation
@@ -44,10 +44,10 @@ calculator/
 
 1. Download or clone the repository.
 2. Make sure all files are in the same folder:
-   - `index.html`
+   - `calcu.html`
    - `calcu.css`
    - `calcu.js`
-3. Open `index.html` in any modern web browser.
+3. Open `calcu.html` in any modern web browser.
 4. Start calculating! 🎉
 
 ---
@@ -63,8 +63,9 @@ calculator/
 
 ## ⚠️ Notes
 
-- This calculator is for **educational purposes**.
+- This calculator is for educational purposes.
 - Using `eval()` is not recommended for large or production-level applications due to security concerns.
+
 ---
 
 ## 👤 Author
